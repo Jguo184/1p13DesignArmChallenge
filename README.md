@@ -1,10 +1,9 @@
 # 1p13DesignArmChallenge
 What is this project? This is an electrically controlled grabber arm made for 1p13. A demonstration is shown below.
 
+https://github.com/user-attachments/assets/6d708c7d-ec09-47e3-b2bf-78ff840fc8db
 
-add video here
-
-A demonstration of the gripper works mechanically with the electronics:
+A technical video description of the Electric Arm and how it works with the elctrical components. 
 
 https://github.com/user-attachments/assets/2826ef2c-4ffe-4b96-99f1-376d1b8524c1
 
